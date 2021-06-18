@@ -1,0 +1,10 @@
+http://localhost:8089/foodDelivery/customerApi/v1/customer
+{
+    "firstName":"Prajwal",
+    "lastName":"J",
+     "primaryMobileNo":"988064735656",
+     "alternateMobileNo":"9880647357",
+     "emailId":"pra@gmail.com",
+     "mainAddress":"Bangalore",
+     "alternateAddress":"Bangalore"
+}
